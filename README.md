@@ -1,22 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Ojeda 👨🏽‍💻
-=============================================================================================================================================
+# Gabriel Ojeda
+**Front-End Developer · UI Designer**  
+React / Next.js · TypeScript · CSS Modules
 
-Front End Developer & UI Designer
----------------------------------
+[![Location](https://img.shields.io/badge/Temuco%2C%20Chile-•-02182B?style=for-the-badge&labelColor=0A2540)](#)
+[![Email](https://img.shields.io/badge/Email-gojedaor%40icloud.com-D7263D?style=for-the-badge&labelColor=02182B)](mailto:gojedaor@icloud.com)
+[![Threads](https://img.shields.io/badge/Threads-@gojedaor-02182B?style=for-the-badge&labelColor=0A2540)](https://www.threads.net/@gojedaor)
+[![GitHub](https://img.shields.io/badge/GitHub-@gojedaorias-02182B?style=for-the-badge&labelColor=0A2540)](https://github.com/gojedaorias)
 
-Specialized in developing attractive Landing Pages, robust web applications, and providing technical consultancy with 6 years of experience in the digital industry. Worked across banking, telecommunication, retail, and healthcare sectors, delivering effective and aesthetically appealing solutions. Original training in design enhances development approach, contributing to marketing and branding areas besides programming. Profound knowledge in technologies like JavaScript, HTML, CSS, React, Vue, and Angular, coupled with problem-solving ability, enables the execution of high-quality digital projects that meet and exceed client expectations.
+---
 
-*   🌍  I'm based in Temuco, Chile
-*   ✉️  You can contact me at [gojedaor@icloud.com](mailto:gojedaor@icloud.com)
-*   🚀  I'm currently working on [Kabeli](http://#)
-*   🧠  I'm learning React Native and Swift
-*   🤝  I'm open to collaborating on interesting Project
-*   ⚡  I'm a Chilean Jedi, but it's a secret ⚡️
-  
-### Skills  
+## About
+Front-end con base en diseño y 6+ años en banca, telecomunicaciones, retail y salud. Construyo **landing pages que convierten**, **apps web robustas** y **sistemas de diseño claros**, priorizando performance, accesibilidad y código mantenible.
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> </p> 
+- 🔭 Actualmente: **trabajo en Kabeli**.  
+- 🧠 Aprendiendo: **React Native** (Expo) y nociones de **Swift**.  
+- 🤝 Abierto a colaborar en proyectos con objetivo claro y alcance definido.  
+- ⚡ Side-lore: Jedi chileno (shhh).
 
- ### Socials 
- 
- <p align="left"> <a href="https://www.github.com/gojedaorias" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@gojedaor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+## What I build
+- **Landing pages** orientadas a conversión (SEO técnico, analítica, tests).  
+- **Aplicaciones web** con **React/Next.js** (SSR/SSG, app router, formularios sólidos).  
+- **Design systems**: tokens, componentes reutilizables, documentación viva.  
+- **Auditorías** de **performance** (Core Web Vitals) y **accesibilidad** (WCAG).  
+- **Consultoría técnica** y rescate de proyectos de front.
+
+> Filosofía: simple > complejo · claro > clever · rápido > perfecto.
+
+---
+
+## Toolbox
+**Core**: JavaScript · TypeScript · React · Next.js · Vite  
+**Estilos**: **CSS moderno** (CSS Modules / SASS / PostCSS)  
+**Estado/Datos**: Zustand / Redux, TanStack Query, REST/GraphQL  
+**Testing**: Vitest / Jest · Playwright  
+**DevOps**: Vercel · CI/CD · feature flags · Sentry  
+**Diseño**: Figma (autolayout, tokens)
+
+> Preferencia consciente: **CSS clásico / CSS Modules** por velocidad y control fino.
+
+---
+
+## Code & snippets
+- Componentes reutilizables, formularios tipados, y tablas eficientes.  
+- Extractos de design system y utilidades de UI.  
+> Revisa repos públicos y notas en este perfil.
+
+---
+
+## Contact
+**Email**: [gojedaor@icloud.com](mailto:gojedaor@icloud.com) · **Threads**: [@gojedaor](https://www.threads.net/@gojedaor)
+
+
