@@ -3,7 +3,7 @@
 > **Senior Product Engineer & UI Architect**
 > *Bridging the gap between Figma and Production.*
 
-[![Website](https://img.shields.io/badge/WEBSITE-gaboojeda.dev-F59E0B?style=for-the-badge&labelColor=020617&logoColor=white)](https://gabrielojeda.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-gabrielojeda.dev-F59E0B?style=for-the-badge&labelColor=020617&logoColor=white)](https://gabrielojeda.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-020617?style=for-the-badge&labelColor=1E293B)](https://www.linkedin.com/in/gojedaorias)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-020617?style=for-the-badge&labelColor=1E293B)](mailto:gojedaor@icloud.com)
 
