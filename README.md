@@ -1,55 +1,68 @@
 # Gabriel Ojeda
-**Front-End Developer · UI Designer**  
-React / Next.js · TypeScript · CSS Modules
 
-[![Location](https://img.shields.io/badge/Temuco%2C%20Chile-•-02182B?style=for-the-badge&labelColor=0A2540)](#)
-[![Email](https://img.shields.io/badge/Email-gojedaor%40icloud.com-D7263D?style=for-the-badge&labelColor=02182B)](mailto:gojedaor@icloud.com)
-[![Threads](https://img.shields.io/badge/Threads-@gojedaor-02182B?style=for-the-badge&labelColor=0A2540)](https://www.threads.net/@gojedaor)
-[![GitHub](https://img.shields.io/badge/GitHub-@gojedaorias-02182B?style=for-the-badge&labelColor=0A2540)](https://github.com/gojedaorias)
+> **Senior Product Engineer & UI Architect**
+> *Bridging the gap between Figma and Production.*
 
----
-
-## About
-Front-end con base en diseño y 6+ años en banca, telecomunicaciones, retail y salud. Construyo **landing pages que convierten**, **apps web robustas** y **sistemas de diseño claros**, priorizando performance, accesibilidad y código mantenible.
-
-- 🔭 Actualmente: **trabajo en Kabeli**.  
-- 🧠 Aprendiendo: **React Native** (Expo) y nociones de **Swift**.  
-- 🤝 Abierto a colaborar en proyectos con objetivo claro y alcance definido.  
-- ⚡ Side-lore: Jedi chileno (shhh).
+[![Website](https://img.shields.io/badge/WEBSITE-gaboojeda.dev-F59E0B?style=for-the-badge&labelColor=020617&logoColor=white)](https://gaboojeda.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-020617?style=for-the-badge&labelColor=1E293B)](https://www.linkedin.com/in/gojedaorias)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-020617?style=for-the-badge&labelColor=1E293B)](mailto:gojedaor@icloud.com)
 
 ---
 
-## What I build
-- **Landing pages** orientadas a conversión (SEO técnico, analítica, tests).  
-- **Aplicaciones web** con **React/Next.js** (SSR/SSG, app router, formularios sólidos).  
-- **Design systems**: tokens, componentes reutilizables, documentación viva.  
-- **Auditorías** de **performance** (Core Web Vitals) y **accesibilidad** (WCAG).  
-- **Consultoría técnica** y rescate de proyectos de front.
+## 🏗 The Architecture
+No "pinto pantallas". Construyo la **infraestructura frontend** que permite a productos complejos (Fintech/Healthtech) escalar sin deuda técnica ni riesgos de accesibilidad.
 
-> Filosofía: simple > complejo · claro > clever · rápido > perfecto.
+Mi enfoque es la **Ingeniería de Alta Fidelidad**: garantizar que la intención del diseño llegue intacta al navegador, sobre una base de código blindada.
 
----
-
-## Toolbox
-**Core**: JavaScript · TypeScript · React · Next.js · Vite  
-**Estilos**: **CSS moderno** (CSS Modules / SASS / PostCSS)  
-**Estado/Datos**: Zustand / Redux, TanStack Query, REST/GraphQL  
-**Testing**: Vitest / Jest · Playwright  
-**DevOps**: Vercel · CI/CD · feature flags · Sentry  
-**Diseño**: Figma (autolayout, tokens)
-
-> Preferencia consciente: **CSS clásico / CSS Modules** por velocidad y control fino.
+* 🔭 **Actualmente:** Liderando UI Architecture en **Kabeli** (Banca).
+* 🎯 **Foco:** Design Systems, Accesibilidad (WCAG 2.2) y Performance.
+* 📍 **Ubicación:** Temuco, Chile (Working Remote Globally).
 
 ---
 
-## Code & snippets
-- Componentes reutilizables, formularios tipados, y tablas eficientes.  
-- Extractos de design system y utilidades de UI.  
-> Revisa repos públicos y notas en este perfil.
+## 🛠 Tech Stack & Arsenal
+Selecciono herramientas por **estabilidad y escalabilidad**, no por hype.
+
+| Domain | The Stack |
+| :--- | :--- |
+| **Core** | `React` · `Next.js 14+` (App Router) · `TypeScript` (Strict) |
+| **Styling** | `CSS Modules` (Architecture) · `Mantine UI` · `Design Tokens` |
+| **State** | `Zustand` · `TanStack Query` · `Context API` |
+| **Quality** | `Jest` · `Storybook` (Documentation) · `ESLint A11y` |
+| **DevOps** | `CI/CD` · `Vercel` · `Semantic Versioning` |
+
+> *Filosofía: Simple > Complejo. Explícito > Implícito. Type-Safe > "Any".*
 
 ---
 
-## Contact
-**Email**: [gojedaor@icloud.com](mailto:gojedaor@icloud.com) · **Threads**: [@gojedaor](https://www.threads.net/@gojedaor)
+## 📦 Premium Resources
+Herramientas que desarrollo para estandarizar la calidad en la industria.
 
+### [⚡ The Production-Ready Kit (v2.0)](https://gaboojeda.dev/store)
+**Stop configuring. Start building.**
+La arquitectura base que utilizo para proyectos Enterprise.
+* ✅ **Next.js 14 + TypeScript Strict**
+* ✅ **Mantine UI + CSS Modules**
+* ✅ **Pre-configured Accessibility Linter & Husky**
+* [**Ver Detalles / Comprar ($49)**](https://gaboojeda.dev/store)
 
+---
+
+## 💼 Selected Engineering Cases
+
+#### 🏦 Fintech Core Architecture
+> *Optimización de retención y modularidad.*
+Arquitectura de componentes para aplicación bancaria crítica. Implementación de **Design System** centralizado que redujo la deuda visual en un 40% y mejoró la retención de usuario (+20%).
+
+#### ⚡ Enterprise Performance (Telco)
+> *High-Traffic Optimization.*
+Refactorización de arquitectura Frontend para NTT Data. Reducción de tiempos de carga en un **30% (Core Web Vitals)** mediante estrategias de SSR/SSG y carga predictiva.
+
+---
+
+<div align="center">
+  <p align="center">
+    <a href="https://gaboojeda.dev">gaboojeda.dev</a> • <a href="mailto:gojedaor@icloud.com">gojedaor@icloud.com</a>
+  </p>
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM%20READY-020617?style=flat-square&color=020617" alt="Status" />
+</div>
