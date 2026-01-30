@@ -25,9 +25,9 @@ Selecciono herramientas por **estabilidad y escalabilidad**, no por hype.
 
 | Domain | The Stack |
 | :--- | :--- |
-| **Core** | `React` · `Next.js 14+` (App Router) · `TypeScript` (Strict) |
-| **Styling** | `CSS Modules` (Architecture) · `Mantine UI` · `Design Tokens` |
-| **State** | `Zustand` · `TanStack Query` · `Context API` |
+| **Core** | `React` · `React Native` · `Next.js` · `TypeScript` |
+| **Styling** | `CSS Modules` · `Tailwind CSS` · `Styled Components` |
+| **State** | `Zustand` · `Redux Toolkit` · `TanStack Query` |
 | **Quality** | `Jest` · `Storybook` (Documentation) · `ESLint A11y` |
 | **DevOps** | `CI/CD` · `Vercel` · `Semantic Versioning` |
 
