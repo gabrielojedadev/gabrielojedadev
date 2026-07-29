@@ -1,68 +1,44 @@
-# Gabriel Ojeda
+# Hi, I'm Gabriel Ojeda 👋
 
-> **Senior Product Engineer & UI Architect**
-> *Bridging the gap between Figma and Production.*
+**Senior Frontend Engineer · React, Next.js & React Native**
 
-[![Website](https://img.shields.io/badge/WEBSITE-gabrielojeda.dev-F59E0B?style=for-the-badge&labelColor=020617&logoColor=white)](https://gabrielojeda.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-020617?style=for-the-badge&labelColor=1E293B)](https://www.linkedin.com/in/gojedaorias)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-020617?style=for-the-badge&labelColor=1E293B)](mailto:gojedaor@icloud.com)
+I build production-ready digital products with a strong focus on performance, accessibility and maintainable frontend architecture.
 
----
+Based in Temuco, Chile · Working remotely
 
-## 🏗 The Architecture
-No "pinto pantallas". Construyo la **infraestructura frontend** que permite a productos complejos (Fintech/Healthtech) escalar sin deuda técnica ni riesgos de accesibilidad.
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielojeda.dev-111827?style=flat-square)](https://gabrielojeda.dev)
+[![Lánzate](https://img.shields.io/badge/Solo_Studio-lanzate.dev-FF6A00?style=flat-square)](https://lanzate.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Ojeda-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gojedaorias)
 
-Mi enfoque es la **Ingeniería de Alta Fidelidad**: garantizar que la intención del diseño llegue intacta al navegador, sobre una base de código blindada.
+## What I do
 
-* 🔭 **Actualmente:** Liderando UI Architecture en **Kabeli** (Banca).
-* 🎯 **Foco:** Design Systems, Accesibilidad (WCAG 2.2) y Performance.
-* 📍 **Ubicación:** Temuco, Chile (Working Remote Globally).
+- Build and evolve frontend products with **React, Next.js and TypeScript**
+- Turn Figma designs into responsive, high-fidelity production interfaces
+- Improve **Core Web Vitals, accessibility and technical SEO**
+- Design scalable component systems and frontend architecture
+- Develop cross-platform mobile experiences with **React Native**
 
----
+## Selected stack
 
-## 🛠 Tech Stack & Arsenal
-Selecciono herramientas por **estabilidad y escalabilidad**, no por hype.
+| Area | Technologies |
+| --- | --- |
+| Frontend | `React` · `Next.js` · `TypeScript` · `JavaScript` |
+| Mobile | `React Native` · `Expo` |
+| UI | `Tailwind CSS` · `shadcn/ui` · `Storybook` · Design Systems |
+| Data & State | `TanStack Query` · `Zustand` · `Redux Toolkit` |
+| Quality | Testing · Accessibility · Performance · Technical SEO |
+| Delivery | `GitHub Actions` · `Vercel` · CI/CD |
 
-| Domain | The Stack |
-| :--- | :--- |
-| **Core** | `React` · `React Native` · `Next.js` · `TypeScript` |
-| **Styling** | `CSS Modules` · `Tailwind CSS` · `Styled Components` |
-| **State** | `Zustand` · `Redux Toolkit` · `TanStack Query` |
-| **Quality** | `Jest` · `Storybook` (Documentation) · `ESLint A11y` |
-| **DevOps** | `CI/CD` · `Vercel` · `Semantic Versioning` |
+## Lánzate
 
-> *Filosofía: Simple > Complejo. Explícito > Implícito. Type-Safe > "Any".*
+I run [**Lánzate**](https://lanzate.dev), a senior-led solo studio for founders and businesses that need polished frontend execution without agency overhead.
 
----
+Fixed scope · Visible staging · Async communication · Production-ready delivery
 
-## 📦 Premium Resources
-Herramientas que desarrollo para estandarizar la calidad en la industria.
+## Let's work together
 
-### [⚡ The Production-Ready Kit (v2.0)](https://gaboojeda.dev/store)
-**Stop configuring. Start building.**
-La arquitectura base que utilizo para proyectos Enterprise.
-* ✅ **Next.js 14 + TypeScript Strict**
-* ✅ **Mantine UI + CSS Modules**
-* ✅ **Pre-configured Accessibility Linter & Husky**
-* [**Ver Detalles / Comprar ($49)**](https://gaboojeda.dev/store)
+I'm open to selective freelance and contract collaborations that can be handled primarily asynchronously.
 
----
-
-## 💼 Selected Engineering Cases
-
-#### 🏦 Fintech Core Architecture
-> *Optimización de retención y modularidad.*
-Arquitectura de componentes para aplicación bancaria crítica. Implementación de **Design System** centralizado que redujo la deuda visual en un 40% y mejoró la retención de usuario (+20%).
-
-#### ⚡ Enterprise Performance (Telco)
-> *High-Traffic Optimization.*
-Refactorización de arquitectura Frontend para NTT Data. Reducción de tiempos de carga en un **30% (Core Web Vitals)** mediante estrategias de SSR/SSG y carga predictiva.
-
----
-
-<div align="center">
-  <p align="center">
-    <a href="https://gaboojeda.dev">gaboojeda.dev</a> • <a href="mailto:gojedaor@icloud.com">gojedaor@icloud.com</a>
-  </p>
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM%20READY-020617?style=flat-square&color=020617" alt="Status" />
-</div>
+- Portfolio: [gabrielojeda.dev](https://gabrielojeda.dev)
+- Studio: [lanzate.dev](https://lanzate.dev)
+- Email: [gojedaor@icloud.com](mailto:gojedaor@icloud.com)
